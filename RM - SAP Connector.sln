@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RM - SAP Connector", "RM - SAP Connector\RM - SAP Connector.csproj", "{ADE4D3A1-D7CE-499A-A36C-E66C2F661917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADE4D3A1-D7CE-499A-A36C-E66C2F661917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE4D3A1-D7CE-499A-A36C-E66C2F661917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE4D3A1-D7CE-499A-A36C-E66C2F661917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE4D3A1-D7CE-499A-A36C-E66C2F661917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0A3B279-CC69-4D68-846C-F0D3B38E2DF9}
+	EndGlobalSection
+EndGlobal

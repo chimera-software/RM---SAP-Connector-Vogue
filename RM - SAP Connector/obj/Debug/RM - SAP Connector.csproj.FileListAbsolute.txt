@@ -1,0 +1,27 @@
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector\RM - SAP Connector\bin\Debug\RM - SAP Connector.exe.config
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector\RM - SAP Connector\bin\Debug\RM - SAP Connector.exe
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector\RM - SAP Connector\bin\Debug\RM - SAP Connector.pdb
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector\RM - SAP Connector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector\RM - SAP Connector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector\RM - SAP Connector\obj\Debug\RM - SAP Connector.csprojAssemblyReference.cache
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector\RM - SAP Connector\obj\Debug\RM___SAP_Connector.Form1.resources
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector\RM - SAP Connector\obj\Debug\RM___SAP_Connector.Properties.Resources.resources
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector\RM - SAP Connector\obj\Debug\RM___SAP_Connector.Setup.resources
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector\RM - SAP Connector\obj\Debug\RM - SAP Connector.csproj.GenerateResource.cache
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector\RM - SAP Connector\obj\Debug\RM - SAP Connector.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector\RM - SAP Connector\obj\Debug\RM - SAP Connector.csproj.CopyComplete
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector\RM - SAP Connector\obj\Debug\RM - SAP Connector.exe
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector\RM - SAP Connector\obj\Debug\RM - SAP Connector.pdb
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector Vogue\RM - SAP Connector\bin\Debug\RM - SAP Connector.exe.config
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector Vogue\RM - SAP Connector\bin\Debug\RM - SAP Connector.exe
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector Vogue\RM - SAP Connector\bin\Debug\RM - SAP Connector.pdb
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector Vogue\RM - SAP Connector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector Vogue\RM - SAP Connector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector Vogue\RM - SAP Connector\obj\Debug\RM___SAP_Connector.Form1.resources
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector Vogue\RM - SAP Connector\obj\Debug\RM___SAP_Connector.Properties.Resources.resources
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector Vogue\RM - SAP Connector\obj\Debug\RM___SAP_Connector.Setup.resources
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector Vogue\RM - SAP Connector\obj\Debug\RM - SAP Connector.csproj.GenerateResource.cache
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector Vogue\RM - SAP Connector\obj\Debug\RM - SAP Connector.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector Vogue\RM - SAP Connector\obj\Debug\RM - SAP Connector.csproj.CopyComplete
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector Vogue\RM - SAP Connector\obj\Debug\RM - SAP Connector.exe
+C:\Users\Paulo Aunor\source\repos\RM - SAP Connector Vogue\RM - SAP Connector\obj\Debug\RM - SAP Connector.pdb

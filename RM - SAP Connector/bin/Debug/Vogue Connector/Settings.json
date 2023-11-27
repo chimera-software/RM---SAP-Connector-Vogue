@@ -1,0 +1,10 @@
+{
+  "sourceFolder": "R:\\PKLWW",
+  "connectionString": "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=R:\\PKLWW\\; Extended Properties=dBase III",
+  "isAutoGen": false,
+  "autoGenTime": "9:38 AM",
+  "destFolder": "R:\\",
+  "branchCode": "GRA",
+  "warehouseCode": "ST003",
+  "prefix": "SAP"
+}

@@ -1,0 +1,679 @@
+DATE,BRANCHCODE,WAREHOUSECODE,CURRENCY,ERPCODE,ITEMNAME,RAWPRICE,GROSSAMT,NETVALUE,QTYSOLD,REVENUECENTER,EMPNAME,INVOICENO
+11/01/2023,PK,LUSAIL,QAR,pkmr-0185,cheese with mint 5 pcs,11,22,22,2,Take Away,Naresh,473640
+11/01/2023,PK,LUSAIL,QAR,pkmr-0274,shimla sandwich-brown,10,10,10,1,Talabat Go,Alex Batad,473641
+11/01/2023,PK,LUSAIL,QAR,pkmr-0414,chilli shrimp sandwich w,23,23,23,1,Talabat Go,Alex Batad,473641
+11/01/2023,PK,LUSAIL,QAR,pkmr-0033,s-mango juice,9,9,9,1,Talabat Go,Alex Batad,473641
+11/01/2023,PK,LUSAIL,QAR,pkmr-0199,zinger burger w fries,21,21,21,1,Take Away,Ganesh Khadka,473643
+11/01/2023,PK,LUSAIL,QAR,pkmr-0049,l-orange juice,17,17,17,1,Take Away,Ganesh Khadka,473643
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Ganesh Khadka,473643
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Ganesh Khadka,473644
+11/01/2023,PK,LUSAIL,QAR,,green chilli,0,0,0,1,Take Away,Ganesh Khadka,473644
+11/01/2023,PK,LUSAIL,QAR,pkmr-0154,frs-br-scrbld e/frd e,5,5,5,1,Take Away,Ganesh Khadka,473644
+11/01/2023,PK,LUSAIL,QAR,,green chilli,0,0,0,1,Take Away,Ganesh Khadka,473644
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473644
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,20,20,4,Take Away,Ganesh Khadka,473645
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Ganesh Khadka,473645
+11/01/2023,PK,LUSAIL,QAR,pkmr-0046,s-water melon,9,9,9,1,Take Away,Ganesh Khadka,473645
+11/01/2023,PK,LUSAIL,QAR,pkmr-0048,s-orange juice,12,24,24,2,Take Away,Ganesh Khadka,473645
+11/01/2023,PK,LUSAIL,QAR,pkmr-0035,s-strwbrry juice,12,12,12,1,Take Away,Ganesh Khadka,473645
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Ganesh Khadka,473645
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Ganesh Khadka,473646
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Ganesh Khadka,473646
+11/01/2023,PK,LUSAIL,QAR,pkmr-0082,l-karak with heil,6,6,6,1,Take Away,Ganesh Khadka,473649
+11/01/2023,PK,LUSAIL,QAR,pkmr-0087,m-karak saffron,6,6,6,1,Take Away,Ganesh Khadka,473648
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,4,4,1,Take Away,Ganesh Khadka,473652
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Ganesh Khadka,473652
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473651
+11/01/2023,PK,LUSAIL,QAR,pkmr-0171,frs-wh-chese-hney,6,6,6,1,Take Away,Ganesh Khadka,473651
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Ganesh Khadka,473651
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,1,Take Away,Ganesh Khadka,473651
+11/01/2023,PK,LUSAIL,QAR,pkmr-0147,frs-wh-keema,7,7,7,1,Talabat Go,Elizalde Animas,473647
+11/01/2023,PK,LUSAIL,QAR,pkmr-0275,frs-wh-bold egg,6,6,6,1,Talabat Go,Elizalde Animas,473647
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Talabat Go,Elizalde Animas,473647
+11/01/2023,PK,LUSAIL,QAR,pkmr-0150,frs-wh-mutn livr,7,7,7,1,Talabat Go,Elizalde Animas,473647
+11/01/2023,PK,LUSAIL,QAR,pkmr-0158,frs-pri-halmi,11,11,11,1,Talabat Go,Elizalde Animas,473647
+11/01/2023,PK,LUSAIL,QAR,pkmr-0160,frs-br-halmi,11,11,11,1,Talabat Go,Elizalde Animas,473650
+11/01/2023,PK,LUSAIL,QAR,pkmr-0006,chicken alfredo,28,28,28,1,Talabat Go,Elizalde Animas,473650
+11/01/2023,PK,LUSAIL,QAR,pkmr-0301,mix slider box,18,18,18,1,Rafeeq,Elizalde Animas,473653
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Rafeeq,Elizalde Animas,473653
+11/01/2023,PK,LUSAIL,QAR,pkmr-0256,ex /chips,2,2,2,1,Rafeeq,Elizalde Animas,473653
+11/01/2023,PK,LUSAIL,QAR,pkmr-0154,frs-br-scrbld e/frd e,5,5,5,1,Rafeeq,Elizalde Animas,473653
+11/01/2023,PK,LUSAIL,QAR,pkmr-0410,tuna avocado sandwich,19,19,19,1,Take Away,Ganesh Khadka,473654
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473654
+11/01/2023,PK,LUSAIL,QAR,pkmr-0159,frs-wh-halmi,11,11,11,1,Take Away,Ganesh Khadka,473656
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Ganesh Khadka,473656
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473657
+11/01/2023,PK,LUSAIL,QAR,pkmr-0147,frs-wh-keema,7,21,21,3,Snoonu,Elizalde Animas,473655
+11/01/2023,PK,LUSAIL,QAR,pkmr-0150,frs-wh-mutn livr,7,21,21,3,Snoonu,Elizalde Animas,473655
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,10,10,2,Snoonu,Elizalde Animas,473655
+11/01/2023,PK,LUSAIL,QAR,pkmr-0164,frs-pri-shak,8,16,16,2,Snoonu,Elizalde Animas,473655
+11/01/2023,PK,LUSAIL,QAR,pkmr-0410,tuna avocado sandwich,19,19,19,1,Take Away,Arif Syed,473658
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473660
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Arif Syed,473659
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473659
+11/01/2023,PK,LUSAIL,QAR,pkmr-0165,frs-wh-shak,8,8,8,1,Take Away,Arif Syed,473661
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,4,4,1,Take Away,Arif Syed,473661
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Arif Syed,473661
+11/01/2023,PK,LUSAIL,QAR,pkmr-0147,frs-wh-keema,7,7,7,1,Take Away,Arif Syed,473662
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473662
+11/01/2023,PK,LUSAIL,QAR,pkmr-0083,s-karak with heil,2,2,2,1,Take Away,Ganesh Khadka,473666
+11/01/2023,PK,LUSAIL,QAR,pkmr-0385,pk bakhsam-4 pcs,10,10,10,1,Take Away,Ganesh Khadka,473666
+11/01/2023,PK,LUSAIL,QAR,pkmr-0281,frs-wh-plain,2,2,2,1,Take Away,Arif Syed,473663
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Arif Syed,473663
+11/01/2023,PK,LUSAIL,QAR,pkmr-0147,frs-wh-keema,7,7,7,1,Take Away,Arif Syed,473663
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Arif Syed,473663
+11/01/2023,PK,LUSAIL,QAR,pkmr-0410,tuna avocado sandwich,19,19,19,1,Take Away,Arif Syed,473663
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Ganesh Khadka,473667
+11/01/2023,PK,LUSAIL,QAR,pkmr-0256,ex /chips,2,2,2,1,Take Away,Ganesh Khadka,473667
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,1,Take Away,Ganesh Khadka,473667
+11/01/2023,PK,LUSAIL,QAR,pkmr-0150,frs-wh-mutn livr,7,7,7,1,Take Away,Ganesh Khadka,473667
+11/01/2023,PK,LUSAIL,QAR,pkmr-0087,m-karak saffron,6,6,6,1,Take Away,Ganesh Khadka,473667
+11/01/2023,PK,LUSAIL,QAR,pkmr-0090,green tea -m,4,4,4,1,Take Away,Arif Syed,473668
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473665
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473665
+11/01/2023,PK,LUSAIL,QAR,pkmr-0049,l-orange juice,17,17,17,1,Take Away,Arif Syed,473669
+11/01/2023,PK,LUSAIL,QAR,pkmr-0276,frs-br-bold egg,6,6,6,1,Talabat Go,Elizalde Animas,473664
+11/01/2023,PK,LUSAIL,QAR,pkmr-0423,greek salad,20,20,20,1,Talabat Go,Elizalde Animas,473664
+11/01/2023,PK,LUSAIL,QAR,pkmr-0426,cajun french fries,10,10,10,1,Talabat Go,Elizalde Animas,473664
+11/01/2023,PK,LUSAIL,QAR,pkmr-0429,basbousa,10,10,10,1,Talabat Go,Elizalde Animas,473664
+11/01/2023,PK,LUSAIL,QAR,pkmr-0395,dalgona coffee,12,12,12,1,Talabat Go,Elizalde Animas,473664
+11/01/2023,PK,LUSAIL,QAR,pkmr-0147,frs-wh-keema,7,14,14,2,Take Away,Ganesh Khadka,473670
+11/01/2023,PK,LUSAIL,QAR,,pespsi 330ml,4,4,4,1,Take Away,Ganesh Khadka,473670
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Arif Syed,473671
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473673
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,10,10,2,Take Away,Ganesh Khadka,473672
+11/01/2023,PK,LUSAIL,QAR,pkmr-0162,frs-wh-zaatar,4,8,8,2,Take Away,Ganesh Khadka,473672
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,8,8,2,Take Away,Ganesh Khadka,473672
+11/01/2023,PK,LUSAIL,QAR,,pespsi 330ml,4,4,4,1,Take Away,Elizalde Animas,473642
+11/01/2023,PK,LUSAIL,QAR,pkmr-0237,pk breakfast diet box,75,75,75,1,Take Away,Ganesh Khadka,473674
+11/01/2023,PK,LUSAIL,QAR,pkmr-0143,frs-pri-cheese,5,5,5,1,Take Away,Ganesh Khadka,473675
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Ganesh Khadka,473675
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473675
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,20,20,4,Take Away,Ganesh Khadka,473676
+11/01/2023,PK,LUSAIL,QAR,pkmr-0247,ex /cheese,1,4,4,4,Take Away,Ganesh Khadka,473676
+11/01/2023,PK,LUSAIL,QAR,,green chilli,0,0,0,4,Take Away,Ganesh Khadka,473676
+11/01/2023,PK,LUSAIL,QAR,pkmr-0143,frs-pri-cheese,5,10,10,2,Take Away,Ganesh Khadka,473677
+11/01/2023,PK,LUSAIL,QAR,pkmr-0247,ex /cheese,1,2,2,2,Take Away,Ganesh Khadka,473677
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473677
+11/01/2023,PK,LUSAIL,QAR,pkmr-0429,basbousa,10,10,10,1,Take Away,Ganesh Khadka,473677
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Arif Syed,473679
+11/01/2023,PK,LUSAIL,QAR,,green chilli,0,0,0,1,Take Away,Arif Syed,473679
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473679
+11/01/2023,PK,LUSAIL,QAR,pkmr-0150,frs-wh-mutn livr,7,7,7,1,Take Away,Arif Syed,473681
+11/01/2023,PK,LUSAIL,QAR,pkmr-0247,ex /cheese,1,1,1,1,Take Away,Arif Syed,473681
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,1,Take Away,Arif Syed,473681
+11/01/2023,PK,LUSAIL,QAR,pkmr-0275,frs-wh-bold egg,6,6,6,1,Take Away,Arif Syed,473681
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,1,Take Away,Arif Syed,473681
+11/01/2023,PK,LUSAIL,QAR,,mountain dew,4,4,4,1,Take Away,Arif Syed,473681
+11/01/2023,PK,LUSAIL,QAR,pkmr-0272,falafel sandwich-white,9,9,9,1,Take Away,Arif Syed,473682
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,1,Take Away,Arif Syed,473682
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Arif Syed,473682
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473684
+11/01/2023,PK,LUSAIL,QAR,pkmr-0385,pk bakhsam-4 pcs,10,10,10,1,Take Away,Ganesh Khadka,473684
+11/01/2023,PK,LUSAIL,QAR,pkmr-0143,frs-pri-cheese,5,5,5,1,Take Away,Ganesh Khadka,473684
+11/01/2023,PK,LUSAIL,QAR,pkmr-0275,frs-wh-bold egg,6,12,12,2,Take Away,Ganesh Khadka,473680
+11/01/2023,PK,LUSAIL,QAR,pkmr-0159,frs-wh-halmi,11,22,22,2,Take Away,Ganesh Khadka,473680
+11/01/2023,PK,LUSAIL,QAR,pkmr-0205,zinger wrap w fries,18,18,18,1,Baladi Express,Elizalde Animas,473683
+11/01/2023,PK,LUSAIL,QAR,pkmr-0397,frs-wh-toastomlate,6,6,6,1,Talabat Go,Elizalde Animas,473678
+11/01/2023,PK,LUSAIL,QAR,pkmr-0147,frs-wh-keema,7,7,7,1,Talabat Go,Elizalde Animas,473678
+11/01/2023,PK,LUSAIL,QAR,pkmr-0046,s-water melon,9,9,9,1,Talabat Go,Elizalde Animas,473678
+11/01/2023,PK,LUSAIL,QAR,pkmr-0397,frs-wh-toastomlate,6,6,6,1,Take Away,Arif Syed,473685
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Arif Syed,473685
+11/01/2023,PK,LUSAIL,QAR,pkmr-0165,frs-wh-shak,8,16,16,2,Take Away,Arif Syed,473687
+11/01/2023,PK,LUSAIL,QAR,pkmr-0272,falafel sandwich-white,9,9,9,1,Take Away,Arif Syed,473687
+11/01/2023,PK,LUSAIL,QAR,pkmr-0150,frs-wh-mutn livr,7,7,7,1,Take Away,Arif Syed,473687
+11/01/2023,PK,LUSAIL,QAR,pkmr-0247,ex /cheese,1,1,1,1,Take Away,Arif Syed,473687
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Arif Syed,473687
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Arif Syed,473687
+11/01/2023,PK,LUSAIL,QAR,pkmr-0221,umm ali,18,18,18,1,Take Away,Arif Syed,473687
+11/01/2023,PK,LUSAIL,QAR,pkmr-0276,frs-br-bold egg,6,6,6,1,Take Away,Arif Syed,473688
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,4,4,1,Take Away,Arif Syed,473688
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Arif Syed,473688
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473691
+11/01/2023,PK,LUSAIL,QAR,pkmr-0087,m-karak saffron,6,6,6,1,Take Away,Ganesh Khadka,473694
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,20,20,4,Take Away,Ganesh Khadka,473686
+11/01/2023,PK,LUSAIL,QAR,pkmr-0097,turkish coffee-m,8,16,16,2,Take Away,Ganesh Khadka,473686
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Ganesh Khadka,473686
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473686
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Arif Syed,473695
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Arif Syed,473695
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Arif Syed,473690
+11/01/2023,PK,LUSAIL,QAR,pkmr-0251,ex / zatar,1,1,1,1,Take Away,Arif Syed,473690
+11/01/2023,PK,LUSAIL,QAR,pkmr-0183,sambosa chicken 5 pcs,11,11,11,1,Take Away,Arif Syed,473690
+11/01/2023,PK,LUSAIL,QAR,pkmr-0165,frs-wh-shak,8,8,8,1,Take Away,Arif Syed,473690
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,1,Take Away,Arif Syed,473690
+11/01/2023,PK,LUSAIL,QAR,,pespsi 330ml,4,4,4,1,Take Away,Arif Syed,473690
+11/01/2023,PK,LUSAIL,QAR,pkmr-0026,strawberry mojito power h,22,22,22,1,Take Away,Arif Syed,473690
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,15,15,3,Take Away,Ganesh Khadka,473692
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,3,Take Away,Ganesh Khadka,473692
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Ganesh Khadka,473692
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473692
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473700
+11/01/2023,PK,LUSAIL,QAR,pkmr-0276,frs-br-bold egg,6,6,6,1,Take Away,Elizalde Animas,473701
+11/01/2023,PK,LUSAIL,QAR,pkmr-0165,frs-wh-shak,8,16,16,2,Take Away,Elizalde Animas,473701
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Elizalde Animas,473701
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Elizalde Animas,473701
+11/01/2023,PK,LUSAIL,QAR,pkmr-0143,frs-pri-cheese,5,20,20,4,Take Away,Arif Syed,473693
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473693
+11/01/2023,PK,LUSAIL,QAR,pkmr-0143,frs-pri-cheese,5,10,10,2,Take Away,Ganesh Khadka,473697
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473697
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Ganesh Khadka,473697
+11/01/2023,PK,LUSAIL,QAR,pkmr-0281,frs-wh-plain,2,4,4,2,Take Away,Arif Syed,473699
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473699
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Arif Syed,473699
+11/01/2023,PK,LUSAIL,QAR,pkmr-0268,frs-pri-bold egg,6,12,12,2,Take Away,Arif Syed,473698
+11/01/2023,PK,LUSAIL,QAR,,black pepper,0,0,0,2,Take Away,Arif Syed,473698
+11/01/2023,PK,LUSAIL,QAR,pkmr-0275,frs-wh-bold egg,6,6,6,1,Take Away,Elizalde Animas,473705
+11/01/2023,PK,LUSAIL,QAR,pkmr-0397,frs-wh-toastomlate,6,6,6,1,Baladi Express,Elizalde Animas,473696
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Baladi Express,Elizalde Animas,473696
+11/01/2023,PK,LUSAIL,QAR,pkmr-0171,frs-wh-chese-hney,6,12,12,2,Take Away,Arif Syed,473704
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,10,10,2,Take Away,Arif Syed,473704
+11/01/2023,PK,LUSAIL,QAR,pkmr-0235,pk breakfast-chapatiyat,70,70,70,1,Take Away,Ganesh Khadka,473689
+11/01/2023,PK,LUSAIL,QAR,pkmr-0374,tumbler-470 ml,60,60,60,1,Take Away,Ganesh Khadka,473689
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Ganesh Khadka,473689
+11/01/2023,PK,LUSAIL,QAR,pkmr-0374,tumbler-470 ml,60,-60,-60,-1,Take Away,Elizalde Animas,473708
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Ganesh Khadka,473707
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473706
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Ganesh Khadka,473702
+11/01/2023,PK,LUSAIL,QAR,pkmr-0165,frs-wh-shak,8,16,16,2,Take Away,Ganesh Khadka,473702
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,2,Take Away,Ganesh Khadka,473702
+11/01/2023,PK,LUSAIL,QAR,,mountain dew,4,4,4,1,Take Away,Ganesh Khadka,473702
+11/01/2023,PK,LUSAIL,QAR,pkmr-0165,frs-wh-shak,8,8,8,1,Take Away,Elizalde Animas,473709
+11/01/2023,PK,LUSAIL,QAR,pkmr-0141,falafel sandwich-brown,9,9,9,1,Rafeeq,Elizalde Animas,473703
+11/01/2023,PK,LUSAIL,QAR,pkmr-0166,frs-br-shak,8,8,8,1,Rafeeq,Elizalde Animas,473703
+11/01/2023,PK,LUSAIL,QAR,pkmr-0172,frs-br-chese-hney,6,6,6,1,Rafeeq,Elizalde Animas,473703
+11/01/2023,PK,LUSAIL,QAR,pkmr-0175,frs-br-nutella,6,6,6,1,Rafeeq,Elizalde Animas,473703
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Arif Syed,473712
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473711
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Arif Syed,473711
+11/01/2023,PK,LUSAIL,QAR,pkmr-0107,2 liter karak,100,100,100,1,Take Away,Arif Syed,473710
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Arif Syed,473714
+11/01/2023,PK,LUSAIL,QAR,pkmr-0251,ex / zatar,1,1,1,1,Take Away,Arif Syed,473714
+11/01/2023,PK,LUSAIL,QAR,pkmr-0150,frs-wh-mutn livr,7,7,7,1,Take Away,Arif Syed,473714
+11/01/2023,PK,LUSAIL,QAR,pkmr-0247,ex /cheese,1,1,1,1,Take Away,Arif Syed,473714
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,4,4,1,Take Away,Arif Syed,473714
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473717
+11/01/2023,PK,LUSAIL,QAR,pkmr-0150,frs-wh-mutn livr,7,14,14,2,Take Away,Ganesh Khadka,473713
+11/01/2023,PK,LUSAIL,QAR,pkmr-0247,ex /cheese,1,2,2,2,Take Away,Ganesh Khadka,473713
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473713
+11/01/2023,PK,LUSAIL,QAR,pkmr-0152,frs-pri-scrbld e/frd e,5,5,5,1,Take Away,Ganesh Khadka,473716
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,1,Take Away,Ganesh Khadka,473716
+11/01/2023,PK,LUSAIL,QAR,pkmr-0164,frs-pri-shak,8,8,8,1,Take Away,Ganesh Khadka,473716
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,1,Take Away,Ganesh Khadka,473716
+11/01/2023,PK,LUSAIL,QAR,,mountain dew,4,4,4,1,Take Away,Ganesh Khadka,473716
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Ganesh Khadka,473719
+11/01/2023,PK,LUSAIL,QAR,pkmr-0256,ex /chips,2,2,2,1,Take Away,Ganesh Khadka,473719
+11/01/2023,PK,LUSAIL,QAR,pkmr-0247,ex /cheese,1,1,1,1,Take Away,Ganesh Khadka,473719
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,1,Take Away,Ganesh Khadka,473719
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Ganesh Khadka,473719
+11/01/2023,PK,LUSAIL,QAR,pkmr-0147,frs-wh-keema,7,14,14,2,Take Away,Ganesh Khadka,473715
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,2,Take Away,Ganesh Khadka,473715
+11/01/2023,PK,LUSAIL,QAR,,green chilli,0,0,0,2,Take Away,Ganesh Khadka,473715
+11/01/2023,PK,LUSAIL,QAR,pkmr-0027,peach mojito power horse,22,22,22,1,Take Away,Ganesh Khadka,473715
+11/01/2023,PK,LUSAIL,QAR,pkmr-0275,frs-wh-bold egg,6,12,12,2,Take Away,Ganesh Khadka,473718
+11/01/2023,PK,LUSAIL,QAR,,tomato,0,0,0,2,Take Away,Ganesh Khadka,473718
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,2,Take Away,Ganesh Khadka,473718
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Ganesh Khadka,473718
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Arif Syed,473721
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473721
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,10,10,2,Take Away,Ganesh Khadka,473722
+11/01/2023,PK,LUSAIL,QAR,pkmr-0087,m-karak saffron,6,6,6,1,Take Away,Ganesh Khadka,473722
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,10,10,2,Take Away,Ganesh Khadka,473723
+11/01/2023,PK,LUSAIL,QAR,pkmr-0083,s-karak with heil,2,2,2,1,Take Away,Ganesh Khadka,473723
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,10,10,2,Take Away,Ganesh Khadka,473724
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,10,10,2,Baladi Express,Elizalde Animas,473720
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Baladi Express,Elizalde Animas,473720
+11/01/2023,PK,LUSAIL,QAR,pkmr-0084,m-karak caramel,6,6,6,1,Baladi Express,Elizalde Animas,473720
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473727
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Ganesh Khadka,473727
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Ganesh Khadka,473726
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,1,Take Away,Ganesh Khadka,473726
+11/01/2023,PK,LUSAIL,QAR,pkmr-0087,m-karak saffron,6,6,6,1,Take Away,Ganesh Khadka,473726
+11/01/2023,PK,LUSAIL,QAR,pkmr-0272,falafel sandwich-white,9,9,9,1,Take Away,Ganesh Khadka,473725
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,1,Take Away,Ganesh Khadka,473725
+11/01/2023,PK,LUSAIL,QAR,,more tahina,0,0,0,1,Take Away,Ganesh Khadka,473725
+11/01/2023,PK,LUSAIL,QAR,pkmr-0256,ex /chips,2,2,2,1,Take Away,Ganesh Khadka,473725
+11/01/2023,PK,LUSAIL,QAR,pkmr-0272,falafel sandwich-white,9,9,9,1,Take Away,Ganesh Khadka,473725
+11/01/2023,PK,LUSAIL,QAR,pkmr-0256,ex /chips,2,2,2,1,Take Away,Ganesh Khadka,473725
+11/01/2023,PK,LUSAIL,QAR,,more tahina,0,0,0,1,Take Away,Ganesh Khadka,473725
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Arif Syed,473729
+11/01/2023,PK,LUSAIL,QAR,pkmr-0087,m-karak saffron,6,6,6,1,Take Away,Arif Syed,473729
+11/01/2023,PK,LUSAIL,QAR,pkmr-0143,frs-pri-cheese,5,5,5,1,Take Away,Ganesh Khadka,473728
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Ganesh Khadka,473730
+11/01/2023,PK,LUSAIL,QAR,,green chilli,0,0,0,1,Take Away,Ganesh Khadka,473730
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Ganesh Khadka,473730
+11/01/2023,PK,LUSAIL,QAR,,green chilli,0,0,0,1,Take Away,Ganesh Khadka,473730
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,4,4,1,Take Away,Ganesh Khadka,473730
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473730
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Arif Syed,473732
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473734
+11/01/2023,PK,LUSAIL,QAR,pkmr-0143,frs-pri-cheese,5,10,10,2,Take Away,Ganesh Khadka,473731
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Arif Syed,473733
+11/01/2023,PK,LUSAIL,QAR,,green chilli,0,0,0,1,Take Away,Arif Syed,473733
+11/01/2023,PK,LUSAIL,QAR,pkmr-0162,frs-wh-zaatar,4,4,4,1,Take Away,Arif Syed,473733
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473733
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,10,10,2,Take Away,Arif Syed,473735
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473735
+11/01/2023,PK,LUSAIL,QAR,pkmr-0159,frs-wh-halmi,11,11,11,1,Take Away,Arif Syed,473737
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Arif Syed,473737
+11/01/2023,PK,LUSAIL,QAR,pkmr-0174,frs-wh-nutella,6,6,6,1,Take Away,Arif Syed,473737
+11/01/2023,PK,LUSAIL,QAR,pkmr-0425,pasta rotini,26,26,26,1,Take Away,Arif Syed,473736
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473736
+11/01/2023,PK,LUSAIL,QAR,pkmr-0171,frs-wh-chese-hney,6,6,6,1,Take Away,Arif Syed,473739
+11/01/2023,PK,LUSAIL,QAR,pkmr-0411,bufalo chkn sadwch w frie,19,19,19,1,Take Away,Arif Syed,473738
+11/01/2023,PK,LUSAIL,QAR,pkmr-0147,frs-wh-keema,7,7,7,1,Take Away,Arif Syed,473738
+11/01/2023,PK,LUSAIL,QAR,,pespsi 330ml,4,4,4,1,Take Away,Arif Syed,473738
+11/01/2023,PK,LUSAIL,QAR,pkmr-0417,crunchy sandwich,15,15,15,1,Take Away,Arif Syed,473740
+11/01/2023,PK,LUSAIL,QAR,pkmr-0416,twin pav,13,13,13,1,Take Away,Arif Syed,473740
+11/01/2023,PK,LUSAIL,QAR,pkmr-0272,falafel sandwich-white,9,9,9,1,Take Away,Arif Syed,473740
+11/01/2023,PK,LUSAIL,QAR,pkmr-0247,ex /cheese,1,1,1,1,Take Away,Arif Syed,473740
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Ganesh Khadka,473741
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,1,Take Away,Ganesh Khadka,473741
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473741
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473744
+11/01/2023,PK,LUSAIL,QAR,pkmr-0165,frs-wh-shak,8,16,16,2,Take Away,Ganesh Khadka,473742
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Ganesh Khadka,473742
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473745
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Arif Syed,473746
+11/01/2023,PK,LUSAIL,QAR,pkmr-0095,cappuccino,12,12,12,1,Talabat Go,Elizalde Animas,473743
+11/01/2023,PK,LUSAIL,QAR,pkmr-0141,falafel sandwich-brown,9,9,9,1,Talabat Go,Elizalde Animas,473743
+11/01/2023,PK,LUSAIL,QAR,pkmr-0185,cheese with mint 5 pcs,11,11,11,1,Take Away,Arif Syed,473748
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473748
+11/01/2023,PK,LUSAIL,QAR,pkmr-0424,chicken penne pesto,30,30,30,1,Take Away,Ganesh Khadka,473747
+11/01/2023,PK,LUSAIL,QAR,,pespsi 330ml,4,4,4,1,Take Away,Ganesh Khadka,473747
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,10,10,2,Take Away,Ganesh Khadka,473749
+11/01/2023,PK,LUSAIL,QAR,,green chilli,0,0,0,2,Take Away,Ganesh Khadka,473749
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Ganesh Khadka,473749
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Ganesh Khadka,473749
+11/01/2023,PK,LUSAIL,QAR,pkmr-0150,frs-wh-mutn livr,7,21,21,3,Take Away,Ganesh Khadka,473750
+11/01/2023,PK,LUSAIL,QAR,pkmr-0042,s-pineapple juice,12,12,12,1,Take Away,Ganesh Khadka,473750
+11/01/2023,PK,LUSAIL,QAR,pkmr-0018,passion fruit,14,14,14,1,Take Away,Ganesh Khadka,473750
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Elizalde Animas,473759
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,10,10,2,Take Away,Arif Syed,473755
+11/01/2023,PK,LUSAIL,QAR,pkmr-0251,ex / zatar,1,2,2,2,Take Away,Arif Syed,473755
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Arif Syed,473755
+11/01/2023,PK,LUSAIL,QAR,pkmr-0411,bufalo chkn sadwch w frie,19,57,57,3,Take Away,Arif Syed,473755
+11/01/2023,PK,LUSAIL,QAR,pkmr-0147,frs-wh-keema,7,7,7,1,Take Away,Arif Syed,473755
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,12,12,3,Take Away,Arif Syed,473755
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,15,15,3,Take Away,Arif Syed,473757
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,3,Take Away,Arif Syed,473757
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473757
+11/01/2023,PK,LUSAIL,QAR,pkmr-0205,zinger wrap w fries,18,18,18,1,Take Away,Ganesh Khadka,473761
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473761
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,10,10,2,Take Away,Ganesh Khadka,473760
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,2,Take Away,Ganesh Khadka,473760
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,10,10,2,Take Away,Ganesh Khadka,473760
+11/01/2023,PK,LUSAIL,QAR,pkmr-0150,frs-wh-mutn livr,7,7,7,1,Take Away,Ganesh Khadka,473758
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Ganesh Khadka,473751
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,4,4,1,Take Away,Ganesh Khadka,473751
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,10,10,2,Take Away,Ganesh Khadka,473753
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Ganesh Khadka,473753
+11/01/2023,PK,LUSAIL,QAR,pkmr-0174,frs-wh-nutella,6,6,6,1,Take Away,Ganesh Khadka,473752
+11/01/2023,PK,LUSAIL,QAR,pkmr-0281,frs-wh-plain,2,4,4,2,Take Away,Ganesh Khadka,473752
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473752
+11/01/2023,PK,LUSAIL,QAR,pkmr-0272,falafel sandwich-white,9,9,9,1,Take Away,Ganesh Khadka,473752
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,10,10,2,Take Away,Ganesh Khadka,473756
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473756
+11/01/2023,PK,LUSAIL,QAR,pkmr-0188,chicken wings,21,21,21,1,Take Away,Ganesh Khadka,473754
+11/01/2023,PK,LUSAIL,QAR,pkmr-0003,shimla sandwich-white,10,10,10,1,Take Away,Ganesh Khadka,473754
+11/01/2023,PK,LUSAIL,QAR,pkmr-0002,aloo paratha,8,8,8,1,Take Away,Ganesh Khadka,473754
+11/01/2023,PK,LUSAIL,QAR,pkmr-0424,chicken penne pesto,30,30,30,1,Take Away,Ganesh Khadka,473754
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Ganesh Khadka,473754
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,4,4,2,Take Away,Ganesh Khadka,473754
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473764
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,10,10,2,Take Away,Ganesh Khadka,473762
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473762
+11/01/2023,PK,LUSAIL,QAR,,mountain dew,4,4,4,1,Take Away,Ganesh Khadka,473765
+11/01/2023,PK,LUSAIL,QAR,pkmr-0048,s-orange juice,12,12,12,1,Take Away,Ganesh Khadka,473765
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473766
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473767
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473767
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473770
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,4,4,1,Take Away,Arif Syed,473769
+11/01/2023,PK,LUSAIL,QAR,pkmr-0143,frs-pri-cheese,5,10,10,2,Take Away,Arif Syed,473768
+11/01/2023,PK,LUSAIL,QAR,pkmr-0256,ex /chips,2,4,4,2,Take Away,Arif Syed,473768
+11/01/2023,PK,LUSAIL,QAR,pkmr-0082,l-karak with heil,6,6,6,1,Take Away,Arif Syed,473771
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Arif Syed,473771
+11/01/2023,PK,LUSAIL,QAR,pkmr-0099,turkish coffee-l,12,24,24,2,Take Away,Ganesh Khadka,473772
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,15,15,3,Take Away,Ganesh Khadka,473773
+11/01/2023,PK,LUSAIL,QAR,,mountain dew,4,4,4,1,Take Away,Ganesh Khadka,473773
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Ganesh Khadka,473774
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Ganesh Khadka,473774
+11/01/2023,PK,LUSAIL,QAR,pkmr-0154,frs-br-scrbld e/frd e,5,5,5,1,Take Away,Arif Syed,473775
+11/01/2023,PK,LUSAIL,QAR,,green chilli,0,0,0,1,Take Away,Arif Syed,473775
+11/01/2023,PK,LUSAIL,QAR,pkmr-0281,frs-wh-plain,2,2,2,1,Take Away,Arif Syed,473775
+11/01/2023,PK,LUSAIL,QAR,,cucumber,0,0,0,1,Take Away,Arif Syed,473775
+11/01/2023,PK,LUSAIL,QAR,,lettuce,0,0,0,1,Take Away,Arif Syed,473775
+11/01/2023,PK,LUSAIL,QAR,,tomato,0,0,0,1,Take Away,Arif Syed,473775
+11/01/2023,PK,LUSAIL,QAR,pkmr-0083,s-karak with heil,2,2,2,1,Take Away,Arif Syed,473775
+11/01/2023,PK,LUSAIL,QAR,pkmr-0395,dalgona coffee,12,24,24,2,Take Away,Arif Syed,473778
+11/01/2023,PK,LUSAIL,QAR,pkmr-0087,m-karak saffron,6,6,6,1,Take Away,Arif Syed,473780
+11/01/2023,PK,LUSAIL,QAR,pkmr-0217,saffron cake,15,30,30,2,Take Away,Arif Syed,473777
+11/01/2023,PK,LUSAIL,QAR,pkmr-0428,club box,90,90,90,1,Take Away,Arif Syed,473777
+11/01/2023,PK,LUSAIL,QAR,pkmr-0411,bufalo chkn sadwch w frie,19,19,19,1,Take Away,Arif Syed,473779
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473779
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Arif Syed,473779
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Ganesh Khadka,473763
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Ganesh Khadka,473763
+11/01/2023,PK,LUSAIL,QAR,pkmr-0411,bufalo chkn sadwch w frie,19,19,19,1,Take Away,Arif Syed,473785
+11/01/2023,PK,LUSAIL,QAR,pkmr-0389,karakchino,16,16,16,1,Take Away,Arif Syed,473784
+11/01/2023,PK,LUSAIL,QAR,pkmr-0089,red tea-l,6,6,6,1,Take Away,Arif Syed,473783
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Arif Syed,473783
+11/01/2023,PK,LUSAIL,QAR,pkmr-0411,bufalo chkn sadwch w frie,19,19,19,1,Take Away,Arif Syed,473782
+11/01/2023,PK,LUSAIL,QAR,pkmr-0033,s-mango juice,9,9,9,1,Take Away,Arif Syed,473782
+11/01/2023,PK,LUSAIL,QAR,pkmr-0174,frs-wh-nutella,6,6,6,1,Take Away,Ganesh Khadka,473786
+11/01/2023,PK,LUSAIL,QAR,pkmr-0185,cheese with mint 5 pcs,11,11,11,1,Take Away,Elizalde Animas,473787
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Ganesh Khadka,473788
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Ganesh Khadka,473788
+11/01/2023,PK,LUSAIL,QAR,pkmr-0174,frs-wh-nutella,6,6,6,1,Take Away,Ganesh Khadka,473788
+11/01/2023,PK,LUSAIL,QAR,pkmr-0083,s-karak with heil,2,6,6,3,Take Away,Ganesh Khadka,473788
+11/01/2023,PK,LUSAIL,QAR,pkmr-0083,s-karak with heil,2,6,6,3,Take Away,Elizalde Animas,473789
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Elizalde Animas,473789
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Elizalde Animas,473789
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Elizalde Animas,473789
+11/01/2023,PK,LUSAIL,QAR,pkmr-0082,l-karak with heil,6,12,12,2,Take Away,Elizalde Animas,473791
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Arif Syed,473790
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,6,6,3,Take Away,Arif Syed,473792
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,6,6,3,Take Away,Ganesh Khadka,473794
+11/01/2023,PK,LUSAIL,QAR,pkmr-0143,frs-pri-cheese,5,5,5,1,Take Away,Ganesh Khadka,473793
+11/01/2023,PK,LUSAIL,QAR,pkmr-0256,ex /chips,2,2,2,1,Take Away,Ganesh Khadka,473793
+11/01/2023,PK,LUSAIL,QAR,pkmr-0181,sambosa vegetable 5 pcs,11,11,11,1,Take Away,Ganesh Khadka,473793
+11/01/2023,PK,LUSAIL,QAR,pkmr-0185,cheese with mint 5 pcs,11,11,11,1,Take Away,Ganesh Khadka,473793
+11/01/2023,PK,LUSAIL,QAR,pkmr-0082,l-karak with heil,6,6,6,1,Take Away,Ganesh Khadka,473796
+11/01/2023,PK,LUSAIL,QAR,pkmr-0095,cappuccino,12,12,12,1,Take Away,Ganesh Khadka,473795
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,12,12,3,Take Away,Ganesh Khadka,473799
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Ganesh Khadka,473801
+11/01/2023,PK,LUSAIL,QAR,pkmr-0385,pk bakhsam-4 pcs,10,10,10,1,Take Away,Ganesh Khadka,473802
+11/01/2023,PK,LUSAIL,QAR,pkmr-0199,zinger burger w fries,21,42,42,2,Take Away,Arif Syed,473803
+11/01/2023,PK,LUSAIL,QAR,pkmr-0420,sign beef burger w fries,25,25,25,1,Take Away,Arif Syed,473803
+11/01/2023,PK,LUSAIL,QAR,pkmr-0147,frs-wh-keema,7,7,7,1,Take Away,Arif Syed,473803
+11/01/2023,PK,LUSAIL,QAR,pkmr-0281,frs-wh-plain,2,2,2,1,Take Away,Arif Syed,473803
+11/01/2023,PK,LUSAIL,QAR,pkmr-0426,cajun french fries,10,10,10,1,Take Away,Arif Syed,473803
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,10,10,2,Take Away,Arif Syed,473798
+11/01/2023,PK,LUSAIL,QAR,pkmr-0205,zinger wrap w fries,18,36,36,2,Take Away,Arif Syed,473798
+11/01/2023,PK,LUSAIL,QAR,pkmr-0247,ex /cheese,1,2,2,2,Take Away,Arif Syed,473798
+11/01/2023,PK,LUSAIL,QAR,pkmr-0082,l-karak with heil,6,12,12,2,Take Away,Ganesh Khadka,473800
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Ganesh Khadka,473800
+11/01/2023,PK,LUSAIL,QAR,pkmr-0174,frs-wh-nutella,6,6,6,1,Take Away,Ganesh Khadka,473800
+11/01/2023,PK,LUSAIL,QAR,pkmr-0083,s-karak with heil,2,2,2,1,Take Away,Ganesh Khadka,473804
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,20,20,5,Take Away,Arif Syed,473805
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473809
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,8,8,4,Take Away,Naresh,473810
+11/01/2023,PK,LUSAIL,QAR,pkmr-0009,crispy strips w fries (6,25,25,25,1,Take Away,Naresh,473807
+11/01/2023,PK,LUSAIL,QAR,pkmr-0165,frs-wh-shak,8,8,8,1,Take Away,Naresh,473806
+11/01/2023,PK,LUSAIL,QAR,pkmr-0147,frs-wh-keema,7,7,7,1,Take Away,Naresh,473806
+11/01/2023,PK,LUSAIL,QAR,pkmr-0159,frs-wh-halmi,11,11,11,1,Take Away,Naresh,473806
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Naresh,473806
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Naresh,473808
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,10,10,2,Take Away,Naresh,473811
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Naresh,473811
+11/01/2023,PK,LUSAIL,QAR,pkmr-0127,tumbler refill- saffron,8,8,8,1,Take Away,Naresh,473811
+11/01/2023,PK,LUSAIL,QAR,pkmr-0083,s-karak with heil,2,2,2,1,Take Away,Alex Batad,473823
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,4,4,2,Take Away,Alex Batad,473824
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473826
+11/01/2023,PK,LUSAIL,QAR,pkmr-0422,sandwich spring roll-chic,8,16,16,2,Take Away,Naresh,473813
+11/01/2023,PK,LUSAIL,QAR,pkmr-0289,sambosa mix 5 pcs,11,11,11,1,Take Away,Naresh,473813
+11/01/2023,PK,LUSAIL,QAR,pkmr-0171,frs-wh-chese-hney,6,6,6,1,Take Away,Naresh,473813
+11/01/2023,PK,LUSAIL,QAR,pkmr-0185,cheese with mint 5 pcs,11,11,11,1,Take Away,Naresh,473813
+11/01/2023,PK,LUSAIL,QAR,pkmr-0036,l-strwbrry juice,17,34,34,2,Take Away,Stanley,473825
+11/01/2023,PK,LUSAIL,QAR,pkmr-0410,tuna avocado sandwich,19,19,19,1,Take Away,Stanley,473820
+11/01/2023,PK,LUSAIL,QAR,pkmr-0033,s-mango juice,9,9,9,1,Take Away,Stanley,473820
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473817
+11/01/2023,PK,LUSAIL,QAR,pkmr-0046,s-water melon,9,9,9,1,Take Away,Stanley,473819
+11/01/2023,PK,LUSAIL,QAR,pkmr-0042,s-pineapple juice,12,12,12,1,Take Away,Stanley,473819
+11/01/2023,PK,LUSAIL,QAR,pkmr-0048,s-orange juice,12,12,12,1,Take Away,Stanley,473819
+11/01/2023,PK,LUSAIL,QAR,pkmr-0033,s-mango juice,9,9,9,1,Take Away,Stanley,473819
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Stanley,473818
+11/01/2023,PK,LUSAIL,QAR,pkmr-0004,crispy nutella crepe,11,11,11,1,Take Away,Stanley,473818
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,4,4,2,Take Away,Stanley,473818
+11/01/2023,PK,LUSAIL,QAR,pkmr-0410,tuna avocado sandwich,19,19,19,1,Take Away,Stanley,473815
+11/01/2023,PK,LUSAIL,QAR,pkmr-0426,cajun french fries,10,10,10,1,Take Away,Stanley,473815
+11/01/2023,PK,LUSAIL,QAR,pkmr-0038,l-lemon mint,10,10,10,1,Take Away,Stanley,473815
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,8,8,2,Take Away,Naresh,473821
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,4,4,2,Take Away,Naresh,473821
+11/01/2023,PK,LUSAIL,QAR,pkmr-0411,bufalo chkn sadwch w frie,19,19,19,1,Take Away,Naresh,473812
+11/01/2023,PK,LUSAIL,QAR,pkmr-0188,chicken wings,21,21,21,1,Take Away,Naresh,473812
+11/01/2023,PK,LUSAIL,QAR,pkmr-0426,cajun french fries,10,10,10,1,Take Away,Naresh,473812
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473832
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473829
+11/01/2023,PK,LUSAIL,QAR,pkmr-0049,l-orange juice,17,17,17,1,Take Away,Naresh,473835
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Naresh,473835
+11/01/2023,PK,LUSAIL,QAR,pkmr-0275,frs-wh-bold egg,6,12,12,2,Take Away,Naresh,473833
+11/01/2023,PK,LUSAIL,QAR,pkmr-0247,ex /cheese,1,2,2,2,Take Away,Naresh,473833
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,10,10,2,Take Away,Naresh,473833
+11/01/2023,PK,LUSAIL,QAR,pkmr-0247,ex /cheese,1,2,2,2,Take Away,Naresh,473833
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Naresh,473836
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,8,8,2,Take Away,Naresh,473834
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Naresh,473834
+11/01/2023,PK,LUSAIL,QAR,pkmr-0393,spiced lemon iced tea,12,12,12,1,Take Away,Stanley,473837
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473837
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Naresh,473828
+11/01/2023,PK,LUSAIL,QAR,pkmr-0205,zinger wrap w fries,18,18,18,1,Take Away,Naresh,473827
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,10,10,2,Take Away,Stanley,473839
+11/01/2023,PK,LUSAIL,QAR,pkmr-0174,frs-wh-nutella,6,12,12,2,Take Away,Stanley,473839
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,6,6,3,Take Away,Stanley,473839
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473839
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,10,10,2,Take Away,Alex Batad,473830
+11/01/2023,PK,LUSAIL,QAR,pkmr-0281,frs-wh-plain,2,2,2,1,Take Away,Alex Batad,473830
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,12,12,3,Take Away,Alex Batad,473830
+11/01/2023,PK,LUSAIL,QAR,pkmr-0083,s-karak with heil,2,2,2,1,Take Away,Alex Batad,473830
+11/01/2023,PK,LUSAIL,QAR,pkmr-0048,s-orange juice,12,12,12,1,Take Away,Alex Batad,473830
+11/01/2023,PK,LUSAIL,QAR,pkmr-0281,frs-wh-plain,2,2,2,1,Take Away,Naresh,473838
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,10,10,2,Take Away,Naresh,473838
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,6,6,3,Take Away,Naresh,473838
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,4,4,1,Take Away,Naresh,473838
+11/01/2023,PK,LUSAIL,QAR,pkmr-0048,s-orange juice,12,24,24,2,Take Away,Stanley,473840
+11/01/2023,PK,LUSAIL,QAR,pkmr-0289,sambosa mix 5 pcs,11,11,11,1,Take Away,Stanley,473840
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Stanley,473840
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,4,4,1,Take Away,Stanley,473842
+11/01/2023,PK,LUSAIL,QAR,pkmr-0148,frs-br-keema,7,14,14,2,Trackoo,Alex Batad,473831
+11/01/2023,PK,LUSAIL,QAR,pkmr-0256,ex /chips,2,4,4,2,Trackoo,Alex Batad,473831
+11/01/2023,PK,LUSAIL,QAR,pkmr-0147,frs-wh-keema,7,7,7,1,Trackoo,Alex Batad,473831
+11/01/2023,PK,LUSAIL,QAR,pkmr-0256,ex /chips,2,2,2,1,Trackoo,Alex Batad,473831
+11/01/2023,PK,LUSAIL,QAR,pkmr-0165,frs-wh-shak,8,8,8,1,Trackoo,Alex Batad,473831
+11/01/2023,PK,LUSAIL,QAR,pkmr-0046,s-water melon,9,9,9,1,Take Away,Stanley,473841
+11/01/2023,PK,LUSAIL,QAR,pkmr-0067,avocado,17,17,17,1,Take Away,Stanley,473841
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473841
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,12,12,3,Take Away,Stanley,473845
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,10,10,5,Take Away,Stanley,473845
+11/01/2023,PK,LUSAIL,QAR,pkmr-0082,l-karak with heil,6,6,6,1,Take Away,Stanley,473822
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Naresh,473844
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Naresh,473843
+11/01/2023,PK,LUSAIL,QAR,,free staff chapathi,0,0,0,6,Take Away,Alex Batad,473850
+11/01/2023,PK,LUSAIL,QAR,,free staff karak,0,0,0,4,Take Away,Alex Batad,473850
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Naresh,473851
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Naresh,473852
+11/01/2023,PK,LUSAIL,QAR,pkmr-0221,umm ali,18,18,18,1,Take Away,Naresh,473852
+11/01/2023,PK,LUSAIL,QAR,pkmr-0281,frs-wh-plain,2,2,2,1,Take Away,Naresh,473848
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,4,4,2,Take Away,Naresh,473849
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,10,10,2,Take Away,Stanley,473854
+11/01/2023,PK,LUSAIL,QAR,pkmr-0247,ex /cheese,1,2,2,2,Take Away,Stanley,473854
+11/01/2023,PK,LUSAIL,QAR,pkmr-0256,ex /chips,2,4,4,2,Take Away,Stanley,473854
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Stanley,473854
+11/01/2023,PK,LUSAIL,QAR,pkmr-0247,ex /cheese,1,1,1,1,Take Away,Stanley,473854
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Naresh,473857
+11/01/2023,PK,LUSAIL,QAR,pkmr-0003,shimla sandwich-white,10,10,10,1,Take Away,Naresh,473856
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,4,4,1,Take Away,Naresh,473856
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,4,4,1,Take Away,Naresh,473853
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Stanley,473859
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473859
+11/01/2023,PK,LUSAIL,QAR,pkmr-0235,pk breakfast-chapatiyat,70,140,140,2,Snoonu,Alex Batad,473847
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Naresh,473862
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,10,10,2,Take Away,Naresh,473860
+11/01/2023,PK,LUSAIL,QAR,pkmr-0256,ex /chips,2,4,4,2,Take Away,Naresh,473860
+11/01/2023,PK,LUSAIL,QAR,pkmr-0174,frs-wh-nutella,6,12,12,2,Take Away,Naresh,473860
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,12,12,3,Take Away,Naresh,473860
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,4,4,2,Take Away,Stanley,473865
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,4,4,2,Take Away,Stanley,473864
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,6,6,3,Take Away,Stanley,473863
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473861
+11/01/2023,PK,LUSAIL,QAR,pkmr-0413,chilli shrimp sandwich,19,57,57,3,Take Away,Stanley,473858
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,12,12,3,Take Away,Stanley,473858
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Stanley,473867
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473867
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Naresh,473866
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Naresh,473866
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,6,6,3,Take Away,Naresh,473868
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473869
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,4,4,1,Take Away,Stanley,473869
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Stanley,473871
+11/01/2023,PK,LUSAIL,QAR,pkmr-0395,dalgona coffee,12,24,24,2,Take Away,Naresh,473870
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Naresh,473870
+11/01/2023,PK,LUSAIL,QAR,pkmr-0090,green tea -m,4,4,4,1,Take Away,Naresh,473874
+11/01/2023,PK,LUSAIL,QAR,pkmr-0046,s-water melon,9,9,9,1,Take Away,Naresh,473874
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,4,4,2,Take Away,Naresh,473874
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473873
+11/01/2023,PK,LUSAIL,QAR,,mountain dew,4,4,4,1,Take Away,Stanley,473876
+11/01/2023,PK,LUSAIL,QAR,pkmr-0154,frs-br-scrbld e/frd e,5,5,5,1,Take Away,Stanley,473876
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,4,4,1,Take Away,Stanley,473877
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Stanley,473878
+11/01/2023,PK,LUSAIL,QAR,pkmr-0256,ex /chips,2,2,2,1,Take Away,Stanley,473878
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Stanley,473880
+11/01/2023,PK,LUSAIL,QAR,pkmr-0281,frs-wh-plain,2,20,20,10,Take Away,Naresh,473872
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,50,50,10,Take Away,Naresh,473872
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Naresh,473872
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,10,10,2,Take Away,Stanley,473879
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,12,12,3,Take Away,Naresh,473875
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,6,6,3,Take Away,Naresh,473882
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Naresh,473882
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,4,4,2,Take Away,Stanley,473883
+11/01/2023,PK,LUSAIL,QAR,pkmr-0436,1 liter qatari coffee,70,70,70,1,Take Away,Stanley,473881
+11/01/2023,PK,LUSAIL,QAR,pkmr-0205,zinger wrap w fries,18,18,18,1,Take Away,Stanley,473884
+11/01/2023,PK,LUSAIL,QAR,pkmr-0392,matcha,16,16,16,1,Take Away,Stanley,473884
+11/01/2023,PK,LUSAIL,QAR,pkmr-0147,frs-wh-keema,7,7,7,1,Take Away,Stanley,473886
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Stanley,473886
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473886
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,6,6,3,Take Away,Naresh,473885
+11/01/2023,PK,LUSAIL,QAR,pkmr-0089,red tea-l,6,6,6,1,Take Away,Naresh,473885
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Naresh,473887
+11/01/2023,PK,LUSAIL,QAR,pkmr-0221,umm ali,18,54,54,3,Trackoo,Alex Batad,473855
+11/01/2023,PK,LUSAIL,QAR,pkmr-0205,zinger wrap w fries,18,54,54,3,Take Away,Stanley,473892
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,20,20,5,Take Away,Stanley,473892
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,4,4,2,Take Away,Stanley,473890
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,15,15,3,Take Away,Naresh,473889
+11/01/2023,PK,LUSAIL,QAR,pkmr-0256,ex /chips,2,6,6,3,Take Away,Naresh,473889
+11/01/2023,PK,LUSAIL,QAR,,mountain dew,4,12,12,3,Take Away,Naresh,473889
+11/01/2023,PK,LUSAIL,QAR,pkmr-0190,caesar salad,18,36,36,2,Take Away,Naresh,473891
+11/01/2023,PK,LUSAIL,QAR,,pespsi 330ml,4,8,8,2,Take Away,Naresh,473891
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Naresh,473891
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Naresh,473893
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,4,4,2,Take Away,Naresh,473888
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473895
+11/01/2023,PK,LUSAIL,QAR,pkmr-0426,cajun french fries,10,20,20,2,Take Away,Stanley,473894
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,12,12,3,Take Away,Stanley,473898
+11/01/2023,PK,LUSAIL,QAR,pkmr-0188,chicken wings,21,21,21,1,Take Away,Naresh,473897
+11/01/2023,PK,LUSAIL,QAR,pkmr-0009,crispy strips w fries (6,25,25,25,1,Take Away,Naresh,473897
+11/01/2023,PK,LUSAIL,QAR,pkmr-0033,s-mango juice,9,27,27,3,Take Away,Naresh,473897
+11/01/2023,PK,LUSAIL,QAR,pkmr-0003,shimla sandwich-white,10,10,10,1,Take Away,Naresh,473896
+11/01/2023,PK,LUSAIL,QAR,pkmr-0090,green tea -m,4,12,12,3,Take Away,Naresh,473896
+11/01/2023,PK,LUSAIL,QAR,pkmr-0275,frs-wh-bold egg,6,6,6,1,Take Away,Alex Batad,473902
+11/01/2023,PK,LUSAIL,QAR,pkmr-0165,frs-wh-shak,8,16,16,2,Take Away,Stanley,473904
+11/01/2023,PK,LUSAIL,QAR,pkmr-0089,red tea-l,6,6,6,1,Take Away,Stanley,473903
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473901
+11/01/2023,PK,LUSAIL,QAR,pkmr-0083,s-karak with heil,2,4,4,2,Take Away,Stanley,473907
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473908
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Naresh,473909
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Naresh,473909
+11/01/2023,PK,LUSAIL,QAR,pkmr-0256,ex /chips,2,2,2,1,Take Away,Naresh,473909
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Stanley,473900
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,12,12,3,Take Away,Stanley,473899
+11/01/2023,PK,LUSAIL,QAR,pkmr-0089,red tea-l,6,6,6,1,Take Away,Stanley,473899
+11/01/2023,PK,LUSAIL,QAR,pkmr-0143,frs-pri-cheese,5,10,10,2,Take Away,Naresh,473905
+11/01/2023,PK,LUSAIL,QAR,pkmr-0164,frs-pri-shak,8,8,8,1,Take Away,Naresh,473905
+11/01/2023,PK,LUSAIL,QAR,pkmr-0199,zinger burger w fries,21,42,42,2,Take Away,Naresh,473905
+11/01/2023,PK,LUSAIL,QAR,,pespsi 330ml,4,8,8,2,Take Away,Naresh,473905
+11/01/2023,PK,LUSAIL,QAR,pkmr-0084,m-karak caramel,6,6,6,1,Take Away,Naresh,473905
+11/01/2023,PK,LUSAIL,QAR,pkmr-0276,frs-br-bold egg,6,6,6,1,Take Away,Alex Batad,473814
+11/01/2023,PK,LUSAIL,QAR,pkmr-0247,ex /cheese,1,1,1,1,Take Away,Alex Batad,473814
+11/01/2023,PK,LUSAIL,QAR,,green chilli,0,0,0,1,Take Away,Alex Batad,473814
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Alex Batad,473814
+11/01/2023,PK,LUSAIL,QAR,pkmr-0420,sign beef burger w fries,25,25,25,1,Take Away,Stanley,473910
+11/01/2023,PK,LUSAIL,QAR,pkmr-0424,chicken penne pesto,30,30,30,1,Take Away,Stanley,473910
+11/01/2023,PK,LUSAIL,QAR,,pespsi 330ml,4,4,4,1,Take Away,Stanley,473910
+11/01/2023,PK,LUSAIL,QAR,pkmr-0425,pasta rotini,26,26,26,1,Take Away,Stanley,473816
+11/01/2023,PK,LUSAIL,QAR,pkmr-0087,m-karak saffron,6,12,12,2,Take Away,Naresh,473916
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,4,4,2,Take Away,Naresh,473916
+11/01/2023,PK,LUSAIL,QAR,pkmr-0033,s-mango juice,9,9,9,1,Take Away,Naresh,473914
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Naresh,473914
+11/01/2023,PK,LUSAIL,QAR,pkmr-0147,frs-wh-keema,7,7,7,1,Take Away,Naresh,473914
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,4,4,1,Take Away,Naresh,473917
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Naresh,473912
+11/01/2023,PK,LUSAIL,QAR,pkmr-0171,frs-wh-chese-hney,6,6,6,1,Take Away,Naresh,473911
+11/01/2023,PK,LUSAIL,QAR,pkmr-0272,falafel sandwich-white,9,9,9,1,Take Away,Naresh,473911
+11/01/2023,PK,LUSAIL,QAR,pkmr-0426,cajun french fries,10,10,10,1,Take Away,Naresh,473911
+11/01/2023,PK,LUSAIL,QAR,pkmr-0146,frs-pri-keema,7,14,14,2,Take Away,Naresh,473906
+11/01/2023,PK,LUSAIL,QAR,pkmr-0426,cajun french fries,10,10,10,1,Take Away,Naresh,473906
+11/01/2023,PK,LUSAIL,QAR,pkmr-0425,pasta rotini,26,26,26,1,Take Away,Naresh,473915
+11/01/2023,PK,LUSAIL,QAR,pkmr-0087,m-karak saffron,6,6,6,1,Take Away,Stanley,473919
+11/01/2023,PK,LUSAIL,QAR,pkmr-0249,ex / saffron,2,2,2,1,Take Away,Stanley,473919
+11/01/2023,PK,LUSAIL,QAR,pkmr-0088,l-karak saffron,8,8,8,1,Take Away,Stanley,473919
+11/01/2023,PK,LUSAIL,QAR,pkmr-0249,ex / saffron,2,2,2,1,Take Away,Stanley,473919
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Naresh,473920
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,10,10,2,Take Away,Stanley,473918
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,10,10,2,Take Away,Stanley,473922
+11/01/2023,PK,LUSAIL,QAR,pkmr-0205,zinger wrap w fries,18,18,18,1,Take Away,Stanley,473922
+11/01/2023,PK,LUSAIL,QAR,pkmr-0422,sandwich spring roll-chic,8,8,8,1,Take Away,Stanley,473932
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Stanley,473932
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Stanley,473930
+11/01/2023,PK,LUSAIL,QAR,pkmr-0087,m-karak saffron,6,12,12,2,Take Away,Naresh,473927
+11/01/2023,PK,LUSAIL,QAR,pkmr-0087,m-karak saffron,6,6,6,1,Take Away,Naresh,473925
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Naresh,473925
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,4,4,2,Take Away,Naresh,473925
+11/01/2023,PK,LUSAIL,QAR,pkmr-0205,zinger wrap w fries,18,36,36,2,Take Away,Naresh,473921
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Naresh,473929
+11/01/2023,PK,LUSAIL,QAR,pkmr-0174,frs-wh-nutella,6,6,6,1,Take Away,Naresh,473929
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Naresh,473931
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Naresh,473924
+11/01/2023,PK,LUSAIL,QAR,pkmr-0159,frs-wh-halmi,11,11,11,1,Take Away,Naresh,473924
+11/01/2023,PK,LUSAIL,QAR,pkmr-0087,m-karak saffron,6,6,6,1,Take Away,Naresh,473924
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Naresh,473924
+11/01/2023,PK,LUSAIL,QAR,pkmr-0016,strawberry,14,14,14,1,Take Away,Naresh,473923
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Naresh,473923
+11/01/2023,PK,LUSAIL,QAR,pkmr-0147,frs-wh-keema,7,7,7,1,Take Away,Naresh,473926
+11/01/2023,PK,LUSAIL,QAR,pkmr-0090,green tea -m,4,8,8,2,Take Away,Naresh,473926
+11/01/2023,PK,LUSAIL,QAR,pkmr-0385,pk bakhsam-4 pcs,10,10,10,1,Take Away,Naresh,473933
+11/01/2023,PK,LUSAIL,QAR,pkmr-0087,m-karak saffron,6,12,12,2,Take Away,Naresh,473933
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Naresh,473928
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Naresh,473935
+11/01/2023,PK,LUSAIL,QAR,pkmr-0422,sandwich spring roll-chic,8,8,8,1,Take Away,Naresh,473934
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,4,4,2,Take Away,Naresh,473936
+11/01/2023,PK,LUSAIL,QAR,pkmr-0281,frs-wh-plain,2,4,4,2,Take Away,Stanley,473846
+11/01/2023,PK,LUSAIL,QAR,pkmr-0269,frs-pri-plain,2,4,4,2,Take Away,Stanley,473846
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,20,20,4,Take Away,Stanley,473846
+11/01/2023,PK,LUSAIL,QAR,pkmr-0009,crispy strips w fries (6,25,25,25,1,Take Away,Stanley,473846
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473846
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473846
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Stanley,473846
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Naresh,473937
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Naresh,473937
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,4,4,2,Take Away,Naresh,473938
+11/01/2023,PK,LUSAIL,QAR,pkmr-0282,frs-wh-veg,4,8,8,2,Take Away,Naresh,473939
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,4,4,1,Take Away,Naresh,473942
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,4,4,1,Take Away,Naresh,473942
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Naresh,473943
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Naresh,473943
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Naresh,473940
+11/01/2023,PK,LUSAIL,QAR,pkmr-0144,frs-wh-cheese,5,5,5,1,Take Away,Naresh,473940
+11/01/2023,PK,LUSAIL,QAR,pkmr-0256,ex /chips,2,2,2,1,Take Away,Naresh,473940
+11/01/2023,PK,LUSAIL,QAR,pkmr-0165,frs-wh-shak,8,16,16,2,Take Away,Naresh,473941
+11/01/2023,PK,LUSAIL,QAR,pkmr-0046,s-water melon,9,9,9,1,Take Away,Naresh,473941
+11/01/2023,PK,LUSAIL,QAR,pkmr-0147,frs-wh-keema,7,7,7,1,Take Away,Stanley,473945
+11/01/2023,PK,LUSAIL,QAR,,hot sauce,0,0,0,1,Take Away,Stanley,473945
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Stanley,473944
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,4,4,1,Take Away,Stanley,473946
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,2,2,1,Take Away,Naresh,473948
+11/01/2023,PK,LUSAIL,QAR,pkmr-0221,umm ali,18,18,18,1,Take Away,Naresh,473949
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Naresh,473949
+11/01/2023,PK,LUSAIL,QAR,pkmr-0417,crunchy sandwich,15,15,15,1,Snoonu,Alex Batad,473947
+11/01/2023,PK,LUSAIL,QAR,pkmr-0086,red tea-m,4,4,4,1,Take Away,Naresh,473951
+11/01/2023,PK,LUSAIL,QAR,,water 500ml,2,4,4,2,Take Away,Naresh,473951
+11/01/2023,PK,LUSAIL,QAR,pkmr-0183,sambosa chicken 5 pcs,11,11,11,1,Take Away,Naresh,473950
+11/01/2023,PK,LUSAIL,QAR,pkmr-0185,cheese with mint 5 pcs,11,11,11,1,Take Away,Naresh,473950
+11/01/2023,PK,LUSAIL,QAR,pkmr-0198,sign chkn burger w fries,25,25,25,1,Take Away,Naresh,473950
+11/01/2023,PK,LUSAIL,QAR,,mountain dew,4,4,4,1,Take Away,Naresh,473950
+11/01/2023,PK,LUSAIL,QAR,pkmr-0048,s-orange juice,12,12,12,1,Take Away,Naresh,473950
+11/01/2023,PK,LUSAIL,QAR,pkmr-0153,frs-wh-scrbld e/frd e,5,5,5,1,Take Away,Stanley,473952
+11/01/2023,PK,LUSAIL,QAR,pkmr-0165,frs-wh-shak,8,8,8,1,Take Away,Stanley,473952
+11/01/2023,PK,LUSAIL,QAR,pkmr-0410,tuna avocado sandwich,19,19,19,1,Take Away,Stanley,473952
+11/01/2023,PK,LUSAIL,QAR,pkmr-0081,m-karak with heil,4,8,8,2,Take Away,Stanley,473952
+11/01/2023,PK,LUSAIL,QAR,pkmr-0298,frs-br-toastomlate,6,6,4.2,1,Take Away,Alex Batad,473953

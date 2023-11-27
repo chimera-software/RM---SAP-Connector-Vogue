@@ -1,0 +1,36 @@
+[06/04/2022 11:54 AM] - Generated File R:\RMDATA\New folder\_20220201_PRODUCTSALES.csv Successfully! 
+[06/04/2022 11:54 AM] - Generated File R:\RMDATA\New folder\_20220201_PAYMENTS.csv Successfully! 
+[06/04/2022 11:54 AM] - Generated File R:\RMDATA\New folder\_20220202_PRODUCTSALES.csv Successfully! 
+[06/04/2022 11:54 AM] - Generated File R:\RMDATA\New folder\_20220202_PAYMENTS.csv Successfully! 
+[06/04/2022 11:54 AM] - Generated File R:\RMDATA\New folder\_20220203_PRODUCTSALES.csv Successfully! 
+[06/04/2022 11:54 AM] - Generated File R:\RMDATA\New folder\_20220203_PAYMENTS.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220204_PRODUCTSALES.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220204_PAYMENTS.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220205_PRODUCTSALES.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220205_PAYMENTS.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220206_PRODUCTSALES.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220206_PAYMENTS.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220207_PRODUCTSALES.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220207_PAYMENTS.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220208_PRODUCTSALES.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220208_PAYMENTS.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220209_PRODUCTSALES.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220209_PAYMENTS.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220210_PRODUCTSALES.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220210_PAYMENTS.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220211_PRODUCTSALES.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220211_PAYMENTS.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220212_PRODUCTSALES.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220212_PAYMENTS.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220213_PRODUCTSALES.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220213_PAYMENTS.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220214_PRODUCTSALES.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220214_PAYMENTS.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220215_PRODUCTSALES.csv Successfully! 
+[06/04/2022 11:55 AM] - Generated File R:\RMDATA\New folder\_20220215_PAYMENTS.csv Successfully! 
+[06/04/2022 11:58 AM] - Generated File R:\RMDATA\New folder\_20220216_PRODUCTSALES.csv Successfully! 
+[06/04/2022 11:58 AM] - Generated File R:\RMDATA\New folder\_20220216_PAYMENTS.csv Successfully! 
+[12/11/2023 4:28 PM] - Generated File R:\\_20231111_PRODUCTSALES_ST003.csv Successfully! 
+[12/11/2023 4:29 PM] - Generated File R:\\_20231111_PRODUCTSALES_ST003.csv Successfully! 
+[12/11/2023 4:32 PM] - Generated File R:\\_20231101_PRODUCTSALES_ST003.csv Successfully! 
+[12/11/2023 4:39 PM] - Generated File R:\\_20231111_PRODUCTSALES_ST003.csv Successfully! 
